@@ -1,0 +1,13 @@
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe.config
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\bin\Debug\Atividade 6.pdb
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csprojAssemblyReference.cache
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade_6.Form1.resources
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade_6.FRM_EXERCICIO2.resources
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade_6.Properties.Resources.resources
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.GenerateResource.cache
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade 6.exe
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade 6.pdb
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade_6.FRM_EXERCICIO3.resources
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Atividades\Atividade 6\Atividade 6\obj\Debug\Atividade_6.FRM_EXERCICIO4.resources
