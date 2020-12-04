@@ -1,0 +1,12 @@
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\obj\Debug\PF_0030482011029.csprojAssemblyReference.cache
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\obj\Debug\PF_0030482011029.FRM_PRINCIPAL.resources
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\obj\Debug\PF_0030482011029.Properties.Resources.resources
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\obj\Debug\PF_0030482011029.csproj.GenerateResource.cache
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\obj\Debug\PF_0030482011029.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\bin\Debug\PF_0030482011029.exe.config
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\bin\Debug\PF_0030482011029.exe
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\bin\Debug\PF_0030482011029.pdb
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\obj\Debug\PF_0030482011029.exe
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\obj\Debug\PF_0030482011029.pdb
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\obj\Debug\PF_0030482011029.frmCidade.resources
+C:\Users\Vinicius Antony\Desktop\Aula Online\2º SEMESTRE\LP II\Projetos\PROJETO_FINAL\PF_0030482011029\PF_0030482011029\obj\Debug\PF_0030482011029.frmSobre.resources
